@@ -14,7 +14,6 @@
   
  ## Results:
  
- :-: Following
 <p align="center">
   <img src="/images/img1.JPG">
 </p>
@@ -25,4 +24,10 @@
 
 <p align="center">
   <img src="/images/img3.JPG">
+</p>
+
+## Interpolation Results (between digits 7 and 0): 
+
+<p align="center">
+  <img src="/images/img4.JPG">
 </p>
