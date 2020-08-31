@@ -6,8 +6,10 @@
 
 • Also, involved implementing linear interpolation in latent space using the follwoing : 
   
-  a) Find two randomly sampled latent vectors (say z1, z2). 
+  a) Find two randomly sampled latent vectors (say z1, z2).
+  
   b) Load a pretrained model and then compute the difference between the z1 and z2 (diff). Define a step size and compute as : new z = (z1 + (diff/ step size)). 
+  
   c) Perform previous step recursively and pass the new z value to the pretrained model.
   
  ## Results:
