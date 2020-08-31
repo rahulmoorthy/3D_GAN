@@ -14,6 +14,7 @@
   
  ## Results:
  
+ ### Following are the results from training the GAN with lr = 0.0001
 <p align="center">
   <img src="/images/img1.JPG">
 </p>
@@ -22,6 +23,7 @@
   <img src="/images/img2.JPG">
 </p>
 
+ ### Following are the results from training the GAN with lr = 0.004
 <p align="center">
   <img src="/images/img3.JPG">
 </p>
