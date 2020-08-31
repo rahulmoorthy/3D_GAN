@@ -1,4 +1,4 @@
-# 3D_GAN
+# 3D_GAN_MNIST 
 
 • Implementation of 3D GAN for generating voxelized MNIST digits
 
